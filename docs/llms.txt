@@ -1,0 +1,22 @@
+# discordzapret
+
+> Если Discord висит на Connecting, discordzapret поднимает голосовые и видео без стороннего туннеля.
+
+Если Discord висит на Connecting, discordzapret поднимает голосовые и видео без стороннего туннеля.
+
+## Страницы
+- Сайт: https://snaremedictitle.github.io/discordzapret/
+- Релиз: https://github.com/SnareMedicTitle/discordzapret/releases/latest
+- Исходный код: https://github.com/SnareMedicTitle/discordzapret
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход блокировки Discord
+- Discord не подключается
+- Discord connecting исправить
+- голосовой чат Discord не работает
+- zapret Discord
+- zapret discord
+- запрет discord
+
+Windows 10/11, без VPN, бесплатно.
