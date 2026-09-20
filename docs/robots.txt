@@ -7,6 +7,4 @@ Allow: /
 User-agent: YandexBot
 Allow: /
 Clean-param: utm_source&utm_medium&utm_campaign
-Host: snaremedictitle.github.io
-
-Sitemap: https://snaremedictitle.github.io/discordzapret/sitemap.xml
+Sitemap: https://github.com/SnareMedicTitle/discordzapret
